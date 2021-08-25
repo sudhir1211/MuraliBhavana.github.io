@@ -424,7 +424,7 @@ opacity: .6;
 	line-height: 28px;
 }
 .banner-container {
-	background-image: url('../images/bg.jpeg');
+	background-image: url('../images/bg.jpg');
 	background-repeat: repeat;
 	min-height: 775px;
 	float:left;
