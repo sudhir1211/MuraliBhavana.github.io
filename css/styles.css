@@ -425,8 +425,9 @@ opacity: .6;
 }
 .banner-container {
 	background-image: url('../images/bg.jpg');
-    background-repeat:   no-repeat;
-    background-position: center center;  
+        background-repeat:   no-repeat;
+        background-position: center center;  
+	filter: blur(10px);
 	min-height: 775px;
 	float:left;
 	background-size: cover;
